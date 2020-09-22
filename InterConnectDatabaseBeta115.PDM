@@ -1,0 +1,194 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Beta115
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+ICDBase.mdb=C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\ICDBase.mdb
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\MSCAL.OCX=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 1|Files Added]
+c:\windows\desktop\programming\current programs in process\icdbasesource\help\inter connect database.cnt=
+c:\windows\desktop\programming\current programs in process\icdbasesource\icdbase.mdb=
+c:\windows\desktop\programming\current programs in process\icdbasesource\vb2040.tmp=
+c:\windows\desktop\programming\current programs in process\icdbasesource\vb6382.tmp=
+c:\windows\desktop\programming\current programs in process\icdbasesource\graphics\be my computer.ico=
+c:\windows\desktop\programming\current programs in process\icdbasesource\graphics\formbottom.bmp=
+c:\windows\desktop\programming\current programs in process\icdbasesource\graphics\formleft.bmp=
+c:\windows\desktop\programming\current programs in process\icdbasesource\graphics\formright.bmp=
+c:\windows\desktop\programming\current programs in process\icdbasesource\graphics\header.bmp=
+c:\windows\desktop\programming\current programs in process\icdbasesource\graphics\icdbjpg.jpg=
+c:\windows\desktop\programming\current programs in process\icdbasesource\graphics\isign.ico=
+c:\windows\desktop\programming\current programs in process\icdbasesource\graphics\simple workgroup.ico=
+
+[Package|Standard Setup Package 1|Files Removed]
+c:\program files\microsoft visual studio\vb98\wizards\pdwizard\redist\mdac_typ.exe=
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\COMCT332.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO360.DLL=Yes
+C:\WINDOWS\SYSTEM\msjet40.dll=Yes
+C:\WINDOWS\SYSTEM\msjter40.dll=Yes
+C:\WINDOWS\SYSTEM\msjint40.dll=Yes
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=Yes
+C:\WINDOWS\SYSTEM\expsrv.dll=Yes
+C:\WINDOWS\SYSTEM\mswstr10.dll=Yes
+C:\WINDOWS\SYSTEM\mswdat10.dll=Yes
+C:\WINDOWS\SYSTEM\msrd2x40.dll=Yes
+C:\WINDOWS\SYSTEM\msrd3x40.dll=Yes
+C:\WINDOWS\SYSTEM\msrepl40.dll=Yes
+C:\WINDOWS\SYSTEM\msjtes40.dll=Yes
+C:\WINDOWS\SYSTEM\VB5DB.DLL=Yes
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=Yes
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Help\Inter Connect Database.HLP=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Help\Inter Connect Database.cnt=Yes
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Graphics\Be My Computer.ico=Yes
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Graphics\FormBottom.bmp=Yes
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Graphics\FormLeft.bmp=Yes
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Graphics\FormRight.bmp=Yes
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Graphics\Header.bmp=Yes
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Graphics\ICDBJPG.jpg=Yes
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Graphics\isign.ico=Yes
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Graphics\Simple Workgroup.ico=Yes
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\ICDBase.mdb=Yes
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\VB2040.TMP=Yes
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\VB6382.TMP=Yes
+C:\WINDOWS\Desktop\Do Not Delete\InterConnect\InterConnectDatabase115.exe=Yes
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\InterConnectDatabase115.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO360.DLL=$(MSDAOPath)
+C:\WINDOWS\SYSTEM\msjet40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msjter40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msjint40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\mswstr10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\msjtes40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCAL.OCX=$(WinSysPath)
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Help\Inter Connect Database.HLP=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Help\Inter Connect Database.cnt=$(AppPath)
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\ICDBase\ICDBase.mdb=$(AppPath)
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\ICDBase\VB2040.TMP=$(AppPath)
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\ICDBase\VB6382.TMP=$(AppPath)
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Graphics\Be My Computer.ico=$(AppPath)
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Graphics\FormBottom.bmp=$(AppPath)
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Graphics\FormLeft.bmp=$(AppPath)
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Graphics\FormRight.bmp=$(AppPath)
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Graphics\Header.bmp=$(AppPath)
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Graphics\ICDBJPG.jpg=$(AppPath)
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Graphics\isign.ico=$(AppPath)
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Graphics\Simple Workgroup.ico=$(AppPath)
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\ICDBase.mdb=$(AppPath)
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\VB2040.TMP=$(AppPath)
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\VB6382.TMP=$(AppPath)
+C:\WINDOWS\Desktop\Do Not Delete\InterConnect\InterConnectDatabase115.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=$(WinSysPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\InterConnectDatabase115.exe=No
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Help\Inter Connect Database.HLP=No
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Help\Inter Connect Database.cnt=No
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\ICDBase\ICDBase.mdb=No
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\ICDBase\VB2040.TMP=No
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\ICDBase\VB6382.TMP=No
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Graphics\Be My Computer.ico=No
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Graphics\FormBottom.bmp=No
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Graphics\FormLeft.bmp=No
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Graphics\FormRight.bmp=No
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Graphics\Header.bmp=No
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Graphics\ICDBJPG.jpg=No
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Graphics\isign.ico=No
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Graphics\Simple Workgroup.ico=No
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\ICDBase.mdb=No
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\VB2040.TMP=No
+C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\VB6382.TMP=No
+C:\WINDOWS\Desktop\Do Not Delete\InterConnect\InterConnectDatabase115.exe=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Inter Connect Database
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Beta115
+ProjectFolder=C:\WINDOWS\Desktop\Do Not Delete\InterConnect
+ServerSideCab=
+File1=C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Beta115\setup.exe
+File2=C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Beta115\Setup.Lst
+File3=C:\WINDOWS\Desktop\Programming\Current Programs In Process\ICDBaseSource\Beta115\InterConnectDatabase115.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Inter Connect Database
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Inter Connect Database]
+Icon1="Inter Connect Database.HLP"
+Title1=Inter Connect Help
+StartIn1=$(AppPath)
+Key1=Icon3
+Icon2=InterConnectDatabase115.exe
+Title2=Inter Connect Database
+StartIn2=$(AppPath)
+Key2=Icon4
